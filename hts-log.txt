@@ -1,0 +1,23 @@
+HTTrack3.50-5 launched on Sat, 24 Oct 2026 16:46:43 at https://adrian1811.github.io/mobywatell/dowodnowy.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://adrian1811.github.io/mobywatell/dowodnowy.html -O1 "C:\My Web Sites\MOBYWATEL" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:46:50	Error: 	"Not Found" (404) at link https://adrian1811.github.io/mobywatell/chrome-extension://mglaecnkoojmmphhoapbkfodjjhmcoec/content.css (from https://adrian1811.github.io/mobywatell/dowodnowy.html)
+16:46:52	Error: 	"Not Found" (404) at link https://adrian1811.github.io/mobywatell/chrome-extension://dacdinoicboceafielngnmjjplncljhj/content.css (from https://adrian1811.github.io/mobywatell/dowodnowy.html)
+16:46:56	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/MOBYWATEL/adrian1811.github.io/mobywatell/checkmark.svg
+16:46:56	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/MOBYWATEL/adrian1811.github.io/mobywatell/arrow.svg
+16:46:56	Error: 	"Not Found" (404) at link https://adrian1811.github.io/assets/warstwa_1.png (from https://adrian1811.github.io/mobywatell/dowodnowy.css)
+16:46:56	Error: 	"Not Found" (404) at link https://adrian1811.github.io/assets/warstwa_2.png (from https://adrian1811.github.io/mobywatell/dowodnowy.css)
+16:46:56	Error: 	"Not Found" (404) at link https://adrian1811.github.io/dowod_files/warstwa_1.png (from https://adrian1811.github.io/mobywatell/dowodnowy.css)
+16:46:56	Error: 	"Not Found" (404) at link https://adrian1811.github.io/dowod_files/warstwa_2.png (from https://adrian1811.github.io/mobywatell/dowodnowy.css)
+16:46:56	Error: 	"Not Found" (404) at link https://adrian1811.github.io/mobywatell/content.html (from https://adrian1811.github.io/mobywatell/dashboard.html)
+16:46:57	Error: 	"Not Found" (404) at link https://adrian1811.github.io/mobywatell/main.html (from https://adrian1811.github.io/mobywatell/saved_resource(3).html)
+16:46:57	Error: 	"Not Found" (404) at link https://adrian1811.github.io/mobywatell/main(1).html (from https://adrian1811.github.io/mobywatell/saved_resource(3).html)
+
+HTTrack Website Copier/3.50-5 mirror complete in 14 seconds : 55 links scanned, 45 files written (2462061 bytes overall) [2192244 bytes received at 156588 bytes/sec], 619992 bytes transferred using HTTP compression in 46 files, ratio 35%, 27.5 requests per connection
+(9 errors, 2 warnings, 0 messages)
+(Some links above the start directory were not mirrored. Pass -B (--can-go-up-and-down) to mirror them.)
